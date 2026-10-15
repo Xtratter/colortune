@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Colortune
+Name[ru]=Colortune
+Comment=Screen gamma and saturation sliders
+Comment[ru]=Гамма и насыщенность экрана
+Exec=colortune
+Icon=preferences-desktop-color
+Categories=Settings;DesktopSettings;Qt;
